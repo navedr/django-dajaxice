@@ -1,4 +1,3 @@
-{% load url %}
 var Dajaxice = {
 
     {% with module=dajaxice_config.modules top='top' %}
