@@ -3,8 +3,8 @@ from distutils.core import setup
 setup(
     name='django-dajaxice3',
     version='0.62',
-    author='Jorge Bastida',
-    author_email='me@jorgebastida.com',
+    author='Naved Rangwala',
+    author_email='naved@ecarone.com',
     description='Agnostic and easy to use ajax library for django',
     url='http://dajaxproject.com',
     license='BSD',
