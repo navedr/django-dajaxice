@@ -2,7 +2,7 @@ from distutils.core import setup
 
 setup(
     name='django-dajaxice3',
-    version='0.62',
+    version='0.63',
     author='Naved Rangwala',
     author_email='naved@ecarone.com',
     description='Agnostic and easy to use ajax library for django',
