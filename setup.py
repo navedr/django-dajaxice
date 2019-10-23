@@ -1,6 +1,6 @@
-from distutils.core import setup
+import setuptools
 
-setup(
+setuptools.setup(
     name='django-dajaxice3',
     version='0.63',
     author='Naved Rangwala',
