@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name='django-dajaxice',
+    name='django-dajaxice3',
     version='0.62',
     author='Jorge Bastida',
     author_email='me@jorgebastida.com',
